@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>OSS Power Tools - Options</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      padding: 40px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      color: #7d8590;
+      margin-bottom: 40px;
+    }
+    .section {
+      background: #161b22;
+      border: 1px solid #30363d;
+      border-radius: 6px;
+      padding: 24px;
+      margin-bottom: 16px;
+    }
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+    }
+    .setting {
+      margin-bottom: 16px;
+    }
+    .setting-label {
+      display: block;
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 8px;
+    }
+    .setting-desc {
+      font-size: 12px;
+      color: #7d8590;
+      margin-bottom: 8px;
+    }
+    input[type="checkbox"] {
+      margin-right: 8px;
+    }
+    .button {
+      padding: 10px 16px;
+      background: #238636;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 500;
+      cursor: pointer;
+    }
+    .button:hover {
+      background: #2ea043;
+    }
+    .button-danger {
+      background: #da3633;
+    }
+    .button-danger:hover {
+      background: #b62324;
+    }
+  </style>
+</head>
+<body>
+  <h1>🛠️ OSS Power Tools</h1>
+  <div class="subtitle">Configure your extension settings</div>
+  
+  <div class="section">
+    <div class="section-title">Profile</div>
+    <div class="setting">
+      <div class="setting-desc">Manage your user profile and preferences</div>
+      <button class="button" onclick="resetProfile()">Reset Profile</button>
+    </div>
+  </div>
+  
+  <div class="section">
+    <div class="section-title">Tool Visibility</div>
+    <div class="setting">
+      <label class="setting-label">
+        <input type="checkbox" checked> OSS Discovery
+      </label>
+    </div>
+    <div class="setting">
+      <label class="setting-label">
+        <input type="checkbox" checked> Maintainer Dashboard
+      </label>
+    </div>
+    <div class="setting">
+      <label class="setting-label">
+        <input type="checkbox" checked> Milestone Celebrations
+      </label>
+    </div>
+    <div class="setting">
+      <label class="setting-label">
+        <input type="checkbox" checked> Cookie Licking Detector
+      </label>
+    </div>
+    <div class="setting">
+      <label class="setting-label">
+        <input type="checkbox" checked> Mentorship Platform
+      </label>
+    </div>
+    <div class="setting">
+      <label class="setting-label">
+        <input type="checkbox" checked> React Native Viewer
+      </label>
+    </div>
+  </div>
+  
+  <script src="options.js"></script>
+</body>
+</html>

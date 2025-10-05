@@ -1,0 +1,35 @@
+/* GitHub-style CSS for content script injection */
+:root {
+  --oss-primary: #238636;
+  --oss-primary-hover: #2ea043;
+  --oss-bg-dark: #0d1117;
+  --oss-bg-card: #161b22;
+  --oss-border: #30363d;
+  --oss-text: #e6edf3;
+  --oss-text-muted: #7d8590;
+}
+
+/* Ensure extension container doesn't interfere with GitHub */
+#oss-power-tools-root {
+  all: initial;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  pointer-events: none;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+}
+
+#oss-power-tools-root * {
+  box-sizing: border-box;
+}
+
+#oss-power-tools-root > * {
+  pointer-events: auto;
+}
+
+/* Prevent extension from being affected by GitHub's styles */
+.oss-power-tools-extension {
+  all: initial;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;
+}

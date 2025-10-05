@@ -1,0 +1,77 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                   OSS POWER TOOLS - QUICK START                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+📍 EXTENSION LOCATION: /Users/ozayy/Desktop/hack/dist
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 INSTALLATION (3 STEPS)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Open Chrome → chrome://extensions/
+2. Enable "Developer mode" (top-right toggle)
+3. Click "Load unpacked" → Select: /Users/ozayy/Desktop/hack/dist
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ WHAT YOU'LL SEE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📍 Location: Bottom-right corner of GitHub pages
+🎨 Design: Authentic GitHub Primer styling
+🖱️  Drag: Use the 6-dot handle to reposition
+👤 Profile: Click user icon to view/edit profile
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🛠️  THE SIX TOOLS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 OSS Discovery          → Find niche open source projects
+📊 Maintainer Dashboard   → Track contribution statistics
+🏆 Milestone Celebrations → Celebrate achievements
+⚠️  Cookie Licking        → Detect stale issues
+👥 Mentorship Platform    → Connect with mentors
+📱 React Native Viewer    → Open in Expo Snack
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎯 FIRST TIME USER FLOW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Step 1: Role Selection     (Mentor or Learning)
+Step 2: Languages          (JavaScript, Python, etc.)
+Step 3: Specialties        (Frontend, Backend, etc.)
+Step 4: Contribution Types (Bug fixes, Documentation, etc.)
+Step 5: GitHub Token       (Optional for enhanced features)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ FIXED: SMOOTH DRAGGING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Sidebar follows cursor exactly
+✓ No more jumping or erratic movement
+✓ Proper offset tracking implemented
+✓ Constrained to viewport boundaries
+✓ Professional "grabbing" cursor feedback
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔧 DEVELOPMENT COMMANDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+npm run dev              → Watch mode for development
+npm run build            → Production build
+npm run build:extension  → Copy static files & create icons
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📚 DOCUMENTATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+README.md         → Full project documentation
+INSTALLATION.md   → Detailed installation guide
+DRAGGING_FIX.md   → Technical explanation of dragging fix
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎉 Ready to enhance your GitHub OSS experience!
+
+Visit: https://github.com → See the extension in action!
+
+╚══════════════════════════════════════════════════════════════════╝

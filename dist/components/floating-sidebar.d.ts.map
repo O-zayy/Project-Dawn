@@ -1,0 +1,1 @@
+{"version":3,"file":"floating-sidebar.d.ts","sourceRoot":"","sources":["../../src/components/floating-sidebar.tsx"],"names":[],"mappings":"AAAA,OAAO,KAA2C,MAAM,OAAO,CAAC;AAIhE,UAAU,oBAAoB;IAC5B,YAAY,EAAE,MAAM,GAAG,IAAI,CAAC;IAC5B,YAAY,EAAE,CAAC,IAAI,EAAE,MAAM,GAAG,IAAI,KAAK,IAAI,CAAC;IAC5C,WAAW,EAAE,GAAG,CAAC;CAClB;AAWD,eAAO,MAAM,eAAe,EAAE,KAAK,CAAC,EAAE,CAAC,oBAAoB,CA6J1D,CAAC"}

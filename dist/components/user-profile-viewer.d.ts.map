@@ -1,0 +1,1 @@
+{"version":3,"file":"user-profile-viewer.d.ts","sourceRoot":"","sources":["../../src/components/user-profile-viewer.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,MAAM,OAAO,CAAC;AAG1B,UAAU,sBAAsB;IAC9B,WAAW,EAAE,GAAG,CAAC;IACjB,OAAO,EAAE,MAAM,IAAI,CAAC;CACrB;AAED,eAAO,MAAM,iBAAiB,EAAE,KAAK,CAAC,EAAE,CAAC,sBAAsB,CAiI9D,CAAC"}
